@@ -176,33 +176,3 @@ print(dislike)
 
 
 
-'''
-coisas a fazer:
-
-1-pegar algumas imagens de diferentes clusters
-2-usuário dar like ou nao nas imagens
-3-ver qual foram os clusteres q tiveram mais likes
-
-4-python rodar automaticamente conforme os likes da pessoas (ver a qual cluster a ft pertence e se a pessoa gosta
-do cluster)
-
-
-'''
-
-
-
-#4:
-'''
-if menina[contador] in (cluster que a pessoa deu mais like):
-    like.append(menina[contador])
-    #tela.blit(YEP,(20,10))
-    print('like')
-    contador+=1
-    
-elif menina[contador] in (cluster que a pessoa deu menos like):
-    dislike.append(menina[contador])
-    #tela.blit(YEP,(20,10))
-    print('dislike')
-    contador+=1
-
-'''
