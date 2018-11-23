@@ -6,7 +6,6 @@ Created on Tue Nov 20 13:03:27 2018
 """
 
 
-
 import pygame
 import pyganim
 from random import randrange
